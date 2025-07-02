@@ -28,6 +28,7 @@ This application prioritizes educational development. The purpose of this applic
 3. I built a simple RNN using pytorch.
 4. I next employed a LSTM to further gauge how input, forget and update gates would improve upon sequential data.
 5. Lastly, I wanted to see how the transformer architecture would perform against its predecessors.
+6. BERT MODEL: https://drive.google.com/drive/folders/1EtsijtZkni9U_BhM7Fv-5ePhMuNUwx_g?usp=drive_link
 
 
 ### 4. Model Evaluation- Accuracy was chosen as the evalution metric for this classification problem as the most interpretable means to compare various traditional and deep architectures.
