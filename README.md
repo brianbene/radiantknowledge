@@ -14,6 +14,7 @@ This application prioritizes educational development. The purpose of this applic
 ### 1. Data Sources
 
 - A script was used to collect articles from wikipedia with subject classes pertaining to nuclear power. For example, a topic that were germane to reactor physics were put in the "reactor physics" class.
+- https://drive.google.com/drive/folders/1yvTbvAdoxz3IvIUiOWy177uqx6_b1NxC?usp=drive_link
 
 
 ### 2. Data/Feature Engineering 
